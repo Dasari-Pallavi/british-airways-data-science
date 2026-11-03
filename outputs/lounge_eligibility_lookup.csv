@@ -1,0 +1,6 @@
+cabin,loyalty_tier,eligible,assumed_usage_rate,justification
+First,Gold/Silver,True,0.85,First Class passengers show maximum lounge arrival propensity.
+Business,Gold/Silver,True,0.7,Business Class tier presents strong historical pre-flight lounge utilization.
+Premium Economy,Gold,False,0.0,Premium Economy class configuration does not grant lounge entry access.
+Economy (Gold),Gold,True,0.55,Elite frequent flyer status maps to standard lounge accessibility options.
+Economy (Regular),None,False,0.0,Standard base economy fare codes carry zero lounge privilege rights.
